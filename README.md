@@ -33,4 +33,5 @@ React, Vite, Tailwind CSS, JavaScript, Axios, REST APIs, Git, and GitHub
 
 ## Related Repository
 
-- [Frontend Repository](https://github.com/dinithi-uthpala/it3030-paf-2026-smart-campus-frontend)
+- [Backend Repository](https://github.com/dinithi-uthpala/it3030-paf-2026-smart-campus-backend)
+
